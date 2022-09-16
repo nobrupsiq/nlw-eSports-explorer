@@ -1,5 +1,15 @@
-[![banner](./banner.png)](https://github.com/nlw-eSports-explorer)
+# NLW eSports 🚀
 
-## Rocketseat NLW eSports 🚀
+![preview](./.github/preview.png)
 
-# https://nobrupsiq.github.io/nlw-eSports-explorer/
+> Trilha Explorer
+
+Projeto construído no evento Next Level Week da Rocketseat.
+
+[🔗 Clique aqui para acessar](https://nobrupsiq.github.io/nlw-eSports-explorer/)
+
+## 🛠 Tecnologias
+
+-  HTML
+-  CSS
+-  Git e Github
